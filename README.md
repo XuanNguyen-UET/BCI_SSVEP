@@ -1,4 +1,4 @@
-# Skin Disease Classification using modern Deep neural networks
+#COMPUTATIONAL NEUROSCIENCE AND APPLICATIONS 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -7,7 +7,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-## This repo contains all implementations and results for the final project of Deep Learning course (AIT3001 37*)!
+## This repo contains all implementations and results for the mini project of "COMPUTATIONAL NEUROSCIENCE AND APPLICATIONS" course (AIT3012 37*)!
 
 ## Files Structure
 - [Report: The Report of this mini project](Report_Mini.pdf)
