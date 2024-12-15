@@ -9,6 +9,9 @@
 
 ## This repo contains all implementations and results for the mini project of "COMPUTATIONAL NEUROSCIENCE AND APPLICATIONS" course (AIT3012 37*)!
 
+## Author
+**Cao Xuân Nguyên - 22022670**
+
 ## Files Structure
 - [Report: The Report of this mini project](Report_Mini.pdf)
 
