@@ -7,10 +7,10 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-## This repo contains all implementations and results for the mini project of "COMPUTATIONAL NEUROSCIENCE AND APPLICATIONS" course (AIT3012 37*)!
+## This repo contains all implementations and results for the mini project of "COMPUTATIONAL NEUROSCIENCE AND APPLICATIONS" 
 
 ## Author
-**Cao Xuân Nguyên - 22022670**
+**Cao Xuân Nguyên**
 
 ## Files Structure
 - [Report: The Report of this mini project](Report_Mini.pdf)
